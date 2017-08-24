@@ -1,5 +1,5 @@
 import java.util.*;
-class factorial{
+class factorialL{
 public static void main(String args[]){
 Scanner sc=new Scanner(System.in);
 int a=sc.nextInt();
