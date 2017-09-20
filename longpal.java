@@ -16,4 +16,8 @@ if(s.equals(s2)){
 if(s.length()>max){
 ss=s;
 max=s.length();}}}}
+  if(str.length()==1){
+    System.out.print(str);
+    System.exit(0);}
+  if(max!=1)
 System.out.print(ss);}}
